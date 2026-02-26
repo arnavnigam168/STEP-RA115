@@ -2,7 +2,7 @@ import java.util.Deque;
 import java.util.LinkedList;
 import java.util.Stack;
 
-public class UseCase12PalindromeCheckerApp {
+public class PalindromeCheckerApp {
     public static void main(String[] args) {
         String word = "civic";
 
