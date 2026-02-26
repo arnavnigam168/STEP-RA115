@@ -1,4 +1,4 @@
-public class UseCase10PalindromeCheckerApp {
+public class PalindromeCheckerApp {
     public static void main(String[] args) {
         String original = "A man a plan a canal Panama";
         String normalized = original.replaceAll("\\s+", "").toLowerCase();
